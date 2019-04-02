@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=P59
+Comment=P59 P2P Cryptocurrency
+Comment[fr]=P59, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=P59, eşten eşe kriptografik sanal para birimi
+Exec=p59-qt %u
+Terminal=false
+Type=Application
+Icon=p59128
+MimeType=x-scheme-handler/p59;
+Categories=Office;Finance;

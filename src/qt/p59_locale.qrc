@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/p59_bg.qm</file>
+        <file alias="ca">locale/p59_ca.qm</file>
+        <file alias="cs">locale/p59_cs.qm</file>
+        <file alias="da">locale/p59_da.qm</file>
+        <file alias="de">locale/p59_de.qm</file>
+        <file alias="en">locale/p59_en.qm</file>
+        <file alias="en_US">locale/p59_en_US.qm</file>
+        <file alias="es">locale/p59_es.qm</file>
+        <file alias="fi">locale/p59_fi.qm</file>
+        <file alias="fr_FR">locale/p59_fr_FR.qm</file>
+        <file alias="it">locale/p59_it.qm</file>
+        <file alias="ja">locale/p59_ja.qm</file>
+        <file alias="ko_KR">locale/p59_ko_KR.qm</file>
+        <file alias="nl">locale/p59_nl.qm</file>
+        <file alias="pl">locale/p59_pl.qm</file>
+        <file alias="pt">locale/p59_pt.qm</file>
+        <file alias="pt_BR">locale/p59_pt_BR.qm</file>
+        <file alias="ro_RO">locale/p59_ro_RO.qm</file>
+        <file alias="ru">locale/p59_ru.qm</file>
+        <file alias="sk">locale/p59_sk.qm</file>
+        <file alias="sv">locale/p59_sv.qm</file>
+        <file alias="uk">locale/p59_uk.qm</file>
+        <file alias="zh_CN">locale/p59_zh_CN.qm</file>
+        <file alias="zh_TW">locale/p59_zh_TW.qm</file>
+    </qresource>
+</RCC>

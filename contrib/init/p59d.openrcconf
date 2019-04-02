@@ -1,0 +1,26 @@
+# /etc/conf.d/p59d: config file for /etc/init.d/p59d
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/p59/p59.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/p59d"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/p59d.pid"
+
+# Where to write p59d data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/p59d"
+
+# User and group to own p59d process
+#BITCOIND_USER="p59"
+#BITCOIND_GROUP="p59"
+
+# Path to p59d executable
+#BITCOIND_BIN="/usr/bin/p59d"
+
+# Nice value to run p59d under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
